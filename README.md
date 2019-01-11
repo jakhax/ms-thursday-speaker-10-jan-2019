@@ -1,37 +1,14 @@
 # Having Fun With Computers 10th Jan 2019
 -----------------------------------------
 
-> Truth is: anything you do, any tutorial you follow, any project you start and never finish, any dead end that you head down, it's not wasted. It's all experience that is accumulating over time.
+> **Truth is: anything you do, any tutorial you follow, any project you start and never finish, any dead end that you head down, it's not wasted. It's all experience that is accumulating over time.**
 
-## Description
-
-This is repo contains references and notes about a presentation we (@reivhax & @jakhak) did at [moringa school](https://moringaschool.com) entitled `Having Fun With Computers` which is basically projects we have did to learn how computers work at the same time building something fun.
+This is repo contains references and notes about a presentation we ([reivhax](https://github.com/reivahax) & [jakhak](https://github.com/jakhax)) did at [Moringa School](https://moringaschool.com) which is basically projects we have did to learn how computers work at the same time building something fun.
 
 This is the link to the [Presentation Slides](https://docs.google.com/presentation/d/1ca6mX68-P9KtuZuqDCryVN3aiNYsFBOipO5SeM2in1M/edit?usp=sharing)
 
 
 # Playing with Hardware / DIY electronics
-## [Making a simple smart home using Raspberry Pi](https://github.com/jakhax/smart-home)
-- In this project we made a working model of a smart home using the [raspberry pi](https://www.makeuseof.com/tag/9-things-wanted-know-raspberry-pi/).
-- The project consists of three logical parts: `front end`,`back end` and `hardware units`.
-### Front-end 
-- The front-end was made using [Angular](https://cli.angular.io/) 6.
-- We were also able to make a `mobile app` for this using [Cordova](https://cordova.apache.org/) and a `desktop app` for windows, mac os & linux using [electron js](https://electronjs.org/), details are in the original [repo](https://github.com/jakhax/smart-home).
-- It consists of an interactive svg file that you can click on to select different rooms of the home then interact with the devices in those rooms
-- The user must be authenticated to use the app, so user accounts must first be created from the back-end by the home admin.
-
-<img src="media/smart-rooms.png"  alt="Smart Home Interface" width="600" height="300">
-
-### Back-end 
-- Made using [django](https://www.djangoproject.com/) web framework, and is hosted on the raspberry pi.
-- user is first authenticated via [ django JWT](https://medium.com/python-pandemonium/json-web-token-based-authentication-in-django-b6dcfa42a332). 
-- Receives authenticated commands from the front-end and runs them on the raspberry pi control connected devices.
-
-### Hardware
-- This part entails the devices & sensors connected that become part of the homes [IOT](https://en.wikipedia.org/wiki/Internet_of_things).
-- We were able to control devices and get data from sensors e.g light bulbs, fans, air conditioner, humidity & temp sensors, home media system.
-- below is an image of the circuit connection we used, everything is controlled over the home network to which the raspberry pi is connected to.
-<img src="media/smart-home-circuit.png"  alt="Circuit Image" width="400" height="200">
 
 ## [Visualizing Music on an LED strip using Esp8266](https://github.com/jakhax/Esp8266-Audio-Reactive-Web-Controlled-LED-Strip)
 
@@ -41,6 +18,30 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
 - Check out the [repo](https://github.com/jakhax/Esp8266-Audio-Reactive-Web-Controlled-LED-Strip) containing the project to see how it works and resources to learning materials.
 
 <img src="media/audio-visualization-desc.gif"  alt="Circuit Image" width="600" height="300">
+
+## [Making a simple smart home using Raspberry Pi](https://github.com/jakhax/smart-home)
+
+In this project we made a working model of a smart home using the [raspberry pi](https://www.makeuseof.com/tag/9-things-wanted-know-raspberry-pi/).The project consists of three logical parts: `front end`,`back end` and `hardware units`.
+
+### Front-end 
+- The front-end was made using [Angular 6](https://cli.angular.io/).
+- We were also able to make a `mobile app` for this using [Cordova](https://cordova.apache.org/) and a `desktop app` for windows, mac os & linux using [electron js](https://electronjs.org/), details are in the original [repo](https://github.com/jakhax/smart-home).
+- It consists of an interactive svg file that you can click on to select different rooms of the home then interact with the devices in those rooms.
+- The user must be authenticated to use the app, so user accounts must first be created from the back-end by the home admin.
+
+<img src="media/smart-rooms.png"  alt="Smart Home Interface" width="600" height="300">
+
+### Back-end 
+- Made using [django](https://www.djangoproject.com/) web framework, and is hosted on the raspberry pi.
+- user is first authenticated via [ django JWT](https://medium.com/python-pandemonium/json-web-token-based-authentication-in-django-b6dcfa42a332). 
+- Receives authenticated commands from the front-end and runs them on the raspberry pi control connected devices.
+- Admin user is also able new devices & sensors into the house through the admin interface.
+
+### Hardware
+- This part entails the devices & sensors connected that become part of the homes [IOT](https://en.wikipedia.org/wiki/Internet_of_things).
+- We were able to control devices and get data from sensors e.g light bulbs, fans, air conditioner, humidity & temp sensors, home media system.
+- below is an image of the circuit connection we used, everything is controlled over the home network to which the raspberry pi is connected to.
+<img src="media/smart-home-circuit.png"  alt="Circuit Image" width="400" height="200">
 
 ## [Telegram bot to locate objects using Esp8266]()
 - `@todo`: publish project to github and document by @reivhax
@@ -122,7 +123,7 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
 - In a country with very harsh cyber crime laws it will be just stupid to remind people that hacking should done legally such as in [bug bounties](https://medium.com/ehsahil/getting-started-in-bug-bounty-7052da28445a) or for educational purposes.
 
 1. [Malduino, making a super cheap rubber ducky](src/malduino)
-2. [Simple Binary exploitation example](src/simple_binary_example)
+2. [Simple Binary exploitation example](src/simple_binary_exploitation)
 3. [Simple Server side exploitation](src/server_side_exploit_python2): Exploit server to get Avenger's endgame secrets.
 4. [XSS & SQL injectio](src/xss-sql-injection-flask)
 5. [XSS example](src/xss-keylogger): xss and keylogger
@@ -161,6 +162,10 @@ CTFs are a great way of understanding not only computer security but also how co
 
 
 ## Contributing 
-- Incase theres anything you feel should be made clear or added to this documentation then dont hesitate to contact either of us on the following platforms
-    - Email: `ogina.jak@gmail.com` , `xavier.kibet@gmail.com`
-    - https://moringaschool.slack.com: `@jack`, `@Xavier Kibet`
+- Incase theres anything you feel should be made clear or added to this documentation then dont hesitate to contact us
+    - Email: 
+        - `ogina.jak@gmail.com` 
+        - `xavier.kibet@gmail.com`
+    - Moringa School Slack Channel:
+        - `@jack`
+        - `@Xavier Kibet`
