@@ -122,7 +122,7 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
 - In a country with very harsh cyber crime laws it will be just stupid to remind people that hacking should done legally such as in [bug bounties](https://medium.com/ehsahil/getting-started-in-bug-bounty-7052da28445a) or for educational purposes.
 
 1. [Malduino, making a super cheap rubber ducky](src/malduino)
-2. [Simple Binary exploitation example](src/simple_binary_example)
+2. [Simple Binary exploitation example](src/simple_binary_exploitation)
 3. [Simple Server side exploitation](src/server_side_exploit_python2): Exploit server to get Avenger's endgame secrets.
 4. [XSS & SQL injectio](src/xss-sql-injection-flask)
 5. [XSS example](src/xss-keylogger): xss and keylogger
