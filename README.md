@@ -202,7 +202,7 @@ CTFs are a great way of understanding not only computer security but also how co
 - Learning something by actually building it is a great way of learning, want to learn how the linux kernel works? well build your own. Check this repo out:[Build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 - Maybe learning a low level language like C or Assembly helps understanding computers.
 
-## Uncaught ReferenceError is not true.
+## Uncaught ReferenceError: fact is not defined.
 - At the time of the presentation the cost of a [rubber ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe) was $45 not $350!! as I mentioned.
 
 ## Contributing 
