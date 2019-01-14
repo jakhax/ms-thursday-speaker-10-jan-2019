@@ -203,7 +203,7 @@ CTFs are a great way of understanding not only computer security but also how co
 - Maybe learning a low level language like C or Assembly helps understanding computers.
 
 ## Uncaught ReferenceError is not true.
-- At the time of the presentation the cost of a [rubber ducky] was $45 not $350!! as I mentioned.
+- At the time of the presentation the cost of a [rubber ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe) was $45 not $350!! as I mentioned.
 
 ## Contributing 
 - Incase theres anything you feel should be made clear or added to this documentation then dont hesitate to contact us.
