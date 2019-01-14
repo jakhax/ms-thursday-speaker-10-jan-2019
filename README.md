@@ -12,7 +12,7 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
     * [Visualizing Music on an LED strip using Esp8266](#visualizing-music-on-an-led-strip-using-esp8266)
     * [Making a simple smart home using Raspberry Pi](#making-a-simple-smart-home-using-raspberry-pi)
     * [Telegram bot to locate objects using Esp8266](#telegram-bot-to-locate-objects-using-esp8266)
-    * [FAQs](#f.a.q-about-getting-started-with-hardware-programming/-diy-electronics)
+    * [F.A.Q about getting started with hardware programming/ DIY electronics](#f.a.q-about-getting-started-with-hardware-programming/-diy-electronics)
     * []()
 * [Mentionable AI projects we have done](#mentionable-ai-projects-we-have-done)
    * [Shamba Doctor](#shamba-doctor)
