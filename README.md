@@ -17,7 +17,7 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
    * [Shamba Doctor](#shamba-doctor)
    * [sonic the self-driving car](#sonic-the-self-driving-car)
    * [Telegram bot to find celeb look alikes](#'telegram-bot-to-find-celeb-look-alikes')
-   * [FAQs](#f.a.q-we-got-asked-about-a.i-and-machine-learning)
+   * [FAQs AI and Machine Learning](#faqs-we-got-asked-about-ai-and-machine-learning)
    
 * [Just a little chat about hacking and CTFs](#just-a-little-chat-about-hacking-and-ctfs)
    * [Simple Exploit Examples](#)
@@ -128,7 +128,7 @@ In this project we made a working model of a smart home using the [raspberry pi]
 ## Telegram bot to find celeb look alikes
 - @reivhax to document this part
 
-## F.A.Q we got asked about A.I and machine learning. 
+## FAQs we got asked about AI and machine learning 
 - **What resources do you recommend for learning about A.I?**
     - First of all we are literally noobs in A.I, other than the maths their is not much we know, so you may be better of learning it from a more experienced person, but here are some resources we have used.
         - [3blue 1brown neural networks series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
