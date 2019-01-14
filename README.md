@@ -9,11 +9,10 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
 
 ## Table of contents
 * [Playing with Hardware / DIY electronics](#playing-with-hardware-/-diy-electronics)
+    * [Making a simple smart home using Raspberry Pi](#making-a-simple-smart-home-using-raspberry-pi)
 * [Mentionable AI projects we have done](#mentionable-ai-projects-we-have-done)
-* []()
-* []()
-* []()
-* []()
+* [Just a little chat about hacking and CTFs](#just-a-little-chat-about-hacking-and-ctfs)
+* [Contacts](#contacts)
 
 # Playing with Hardware / DIY electronics
 
