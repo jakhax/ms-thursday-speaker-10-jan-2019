@@ -24,6 +24,7 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
    * [CTFs](#ctf)
    * [CTF resourses](#ctf-resources)
    * [FAQs Hacking & CTFs](#faqs-we-were-asked-about-hacking-and-ctfs)
+* [Any other random stuff](#any-other-random-stuff)
 * [Contributing](#contributing)
 * [Contacts](#contacts)
 
@@ -174,7 +175,7 @@ CTFs are a great way of understanding not only computer security but also how co
 - [Picoctf](https://picoctf.com/) both [2017](https://2017game.picoctf.com) & [2018](https://2018game.picoctf.com/) challenges are highly recommended.
 - [hackthebox](https://www.hackthebox.eu/)
 
-# FAQs we were asked about hacking and CTFs
+## FAQs we were asked about hacking and CTFs
 - **What is the secret step by step guide to learn hacking?**
     - glad you asked this. their is no guide to learn hacking, to understand an important idea i **highly recommmend** you to watch this video : [https://www.youtube.com/watch?v=2TofunAI6fU](https://www.youtube.com/watch?v=2TofunAI6fU)
 
@@ -184,13 +185,30 @@ CTFs are a great way of understanding not only computer security but also how co
     - anyways here are resources that I have looked at and found really helpfull
         - [hacker101](https://www.hacker101.com/)
         - [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) say no more.
+        
+- **How can I hack Wifi?**
+   - First learn how wifi works and wirelsess networks in general, then read about security vulnearbilities in network security protocols like WPA, WPA2 and WEP. 
+   - The advantage with this method of learning even though it takes time in the end you will learn a lot about how computers work and know how to exploit them, evening coming up with your own exploits.
+   - Please dont google `how to hack ....`, dont be a [script kiddie/ skiddie](https://en.wikipedia.org/wiki/Script_kiddie)
+
+## Any other random stuff.
+
+**This are stuff that works for us, we may be wrong, apart from not being a skiddie!!**
+
+- Dont be a [script kiddie/ skiddie](https://en.wikipedia.org/wiki/Script_kiddie)
+- We think doing a lot of coding challenges helps make you a better coder, like [codewars](https://codewars.com/kata/) and [project euler](https://projecteuler.net/)
+- Becoming an `expert` in most computer science fields takes time so you are better off enjoying the journey.
+- Learning something by actually building it is a great way of learning, want to learn how the linux kernel works? well build your own. Check this repo out:[Build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+- Maybe learning a low level language like C or Assembly helps understanding computers.
 
 ## Contributing 
 - Incase theres anything you feel should be made clear or added to this documentation then dont hesitate to contact us.
 - valid Pull requests are also welcomed.
 
 ## Contacts
-- Feel free to ask us question. 
+
+Feel free to ask us questions. 
+
 - Email: 
     - `ogina.jak@gmail.com` 
     - `xavier.kibet@gmail.com`
