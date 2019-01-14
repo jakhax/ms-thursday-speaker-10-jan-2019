@@ -8,7 +8,7 @@ This is repo contains references and notes about a presentation we ([reivhax](ht
 This is the link to the [Presentation Slides](https://docs.google.com/presentation/d/1ca6mX68-P9KtuZuqDCryVN3aiNYsFBOipO5SeM2in1M/edit?usp=sharing)
 
 ## Table of contents
-* [Playing with Hardware / DIY electronics](#playing-with-hardware-/-diy-electronics)
+* [Fun with DIY electronics & Hardware Programming](#fun-with-diy-electronics-&-hardware-programming)
     * [Visualizing Music on an LED strip using Esp8266](#visualizing-music-on-an-led-strip-using-esp8266)
     * [Making a simple smart home using Raspberry Pi](#making-a-simple-smart-home-using-raspberry-pi)
     * [Telegram bot to locate objects using Esp8266](#telegram-bot-to-locate-objects-using-esp8266)
@@ -27,7 +27,7 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
 * [Contributing](#contributing)
 * [Contacts](#contacts)
 
-# Playing with Hardware / DIY electronics
+# Fun with DIY electronics & Hardware Programming
 
 ## [Visualizing Music on an LED strip using Esp8266](https://github.com/jakhax/Esp8266-Audio-Reactive-Web-Controlled-LED-Strip)
 
