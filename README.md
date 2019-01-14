@@ -3,10 +3,17 @@
 
 > **Truth is: anything you do, any tutorial you follow, any project you start and never finish, any dead end that you head down, it's not wasted. It's all experience that is accumulating over time.**
 
-This is repo contains references and notes about a presentation we ([reivhax](https://github.com/reivahax) & [jakhak](https://github.com/jakhax)) did at [Moringa School](https://moringaschool.com) which is basically projects we have did to learn how computers work at the same time building something fun.
+This is repo contains references and notes about a presentation we ([reivhax](https://github.com/reivahax) & [jakhak](https://github.com/jakhax)) did at [Moringa School](https://moringaschool.com) which is basically some of the projects we have done to learn how computers work at the same time building something fun.
 
 This is the link to the [Presentation Slides](https://docs.google.com/presentation/d/1ca6mX68-P9KtuZuqDCryVN3aiNYsFBOipO5SeM2in1M/edit?usp=sharing)
 
+## Table of contents
+* [Playing with Hardware / DIY electronics](#playing-with-hardware-/-diy-electronics)
+* [Mentionable AI projects we have done](#mentionable-ai-projects-we-have-done)
+* []()
+* []()
+* []()
+* []()
 
 # Playing with Hardware / DIY electronics
 
@@ -74,6 +81,7 @@ In this project we made a working model of a smart home using the [raspberry pi]
     - You can start by looking at Fast Fourier Transformation, [3blue 1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) made an awesome video on it that is beginners friendly.
     - Learning how to use the [numpy](http://www.numpy.org/) library in python to do array operations would also help.
     - Read the visualization code in the [repo](https://github.com/jakhax/Esp8266-Audio-Reactive-Web-Controlled-LED-Strip)
+    - Learning a bit of [calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) may prove usefull when working with audio visualization
 
 
 # Mentionable AI projects we have done
@@ -122,6 +130,8 @@ In this project we made a working model of a smart home using the [raspberry pi]
 - This part was a just a general view of the cyber sec / hacking field most of the examples we showed were very basic exploits, for obvious reasons, the major take away though was to show computer programs in general can be exploited.
 - In a country with very harsh cyber crime laws it will be just stupid to remind people that hacking should done legally such as in [bug bounties](https://medium.com/ehsahil/getting-started-in-bug-bounty-7052da28445a) or for educational purposes.
 
+Below is a list of examples that we presented just to highlight examples of very basic exploitation
+
 1. [Malduino, making a super cheap rubber ducky](src/malduino)
 2. [Simple Binary exploitation example](src/simple_binary_exploitation)
 3. [Simple Server side exploitation](src/server_side_exploit_python2): Exploit server to get Avenger's endgame secrets.
@@ -160,12 +170,15 @@ CTFs are a great way of understanding not only computer security but also how co
         - [hacker101](https://www.hacker101.com/)
         - [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) say no more.
 
-
 ## Contributing 
-- Incase theres anything you feel should be made clear or added to this documentation then dont hesitate to contact us
-    - Email: 
-        - `ogina.jak@gmail.com` 
-        - `xavier.kibet@gmail.com`
-    - Moringa School Slack Channel:
-        - `@jack`
-        - `@Xavier Kibet`
+- Incase theres anything you feel should be made clear or added to this documentation then dont hesitate to contact us.
+- valid Pull requests are also welcomed.
+
+## Contacts
+- Feel free to ask us question. 
+- Email: 
+    - `ogina.jak@gmail.com` 
+    - `xavier.kibet@gmail.com`
+- Moringa School Slack Channel:
+    - `@jack`
+    - `@Xavier Kibet`
