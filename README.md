@@ -188,7 +188,7 @@ CTFs are a great way of understanding not only computer security but also how co
         
 - **How can I hack Wifi?**
    - First learn how wifi works and wirelsess networks in general, then read about security vulnearbilities in network security protocols like WPA, WPA2 and WEP. 
-   - The advantage with this method of learning even though it takes time in the end you will learn a lot about how computers work and know how to exploit them, evening coming up with your own exploits.
+   - The advantage with this method of learning even though it takes time in the end you will learn a lot about how computers work and know how to exploit them, even coming up with your own exploits.
    - Please dont google `how to hack ....`, dont be a [script kiddie/ skiddie](https://en.wikipedia.org/wiki/Script_kiddie)
 
 ## Any other random stuff.
