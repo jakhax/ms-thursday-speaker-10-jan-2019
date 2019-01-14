@@ -13,7 +13,6 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
     * [Making a simple smart home using Raspberry Pi](#making-a-simple-smart-home-using-raspberry-pi)
     * [Telegram bot to locate objects using Esp8266](#telegram-bot-to-locate-objects-using-esp8266)
     * [FAQs-getting started with DIY electronics and hardware programming](#faqs-getting-started-with-diy-electronics-and-hardware-programming)
-    * []()
 * [Mentionable AI projects we have done](#mentionable-ai-projects-we-have-done)
    * [Shamba Doctor](#shamba-doctor)
    * [sonic the self-driving car](#sonic-the-self-driving-car)
@@ -22,9 +21,9 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
    
 * [Just a little chat about hacking and CTFs](#just-a-little-chat-about-hacking-and-ctfs)
    * [Simple Exploit Examples](#)
-   * [CTFS](#ctf)
+   * [CTFs](#ctf)
    * [CTF resourses](#ctf-resourses)
-   * [FAQs](#f.a.q-we-were-asked-about-hacking-and-ctfs)
+   * [FAQs Hacking & CTFs](#faqs-we-were-asked-about-hacking-and-ctfs)
 * [Contributing](#contributing)
 * [Contacts](#contacts)
 
@@ -155,7 +154,8 @@ In this project we made a working model of a smart home using the [raspberry pi]
 6. [python2 input is evil](src/python2_input_is_eval)
 
 
-## CTFs
+## CTF
+
 CTFs are computer security/hacking competitions which generally consist of participants breaking, investigating, reverse engineering and doing anything they can to reach the end goal, a "flag" which is usually found as a string of text.
 
 [![What is a ctf Liveoverflow video](https://img.youtube.com/vi/8ev9ZX9J45A/0.jpg)](https://www.youtube.com/watch?v=8ev9ZX9J45A)
@@ -166,7 +166,7 @@ Just like any programming challenge, take your time, learn the tools, and don't 
 CTFs are a great way of understanding not only computer security but also how computers work
 
 
-### ctf resources
+### CTF resources
 - [Trail of bits](https://trailofbits.github.io/ctf/) ctf guide for newbies.
 - [CTF resources](https://ctfs.github.io/resources/) This repository aims to be an archive of information, tools, and references regarding CTF competitions.
 - https://ctftime.org/
@@ -174,7 +174,7 @@ CTFs are a great way of understanding not only computer security but also how co
 - [Picoctf](https://picoctf.com/) both [2017](https://2017game.picoctf.com) & [2018](https://2018game.picoctf.com/) challenges are highly recommended.
 - [hackthebox](https://www.hackthebox.eu/)
 
-# F.A.Q we were asked about hacking and CTFs
+# FAQs we were asked about hacking and CTFs
 - **What is the secret step by step guide to learn hacking?**
     - glad you asked this. their is no guide to learn hacking, to understand an important idea i **highly recommmend** you to watch this video : [https://www.youtube.com/watch?v=2TofunAI6fU](https://www.youtube.com/watch?v=2TofunAI6fU)
 
