@@ -9,9 +9,23 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
 
 ## Table of contents
 * [Playing with Hardware / DIY electronics](#playing-with-hardware-/-diy-electronics)
+    * [Visualizing Music on an LED strip using Esp8266](#visualizing-music-on-an-led-strip-using-esp8266)
     * [Making a simple smart home using Raspberry Pi](#making-a-simple-smart-home-using-raspberry-pi)
+    * [Telegram bot to locate objects using Esp8266](#telegram-bot-to-locate-objects-using-esp8266)
+    * [FAQs](#f.a.q-about-getting-started-with-hardware-programming/-diy-electronics)
+    * []()
 * [Mentionable AI projects we have done](#mentionable-ai-projects-we-have-done)
+   * [Shamba Doctor](#shamba-doctor)
+   * [sonic the self-driving car](#sonic-the-self-driving-car)
+   * [Telegram bot to find celeb look alikes](#'telegram-bot-to-find-celeb-look-alikes')
+   * [FAQs](#f.a.q-we-got-asked-about-a.i-and-machine-learning)
+   
 * [Just a little chat about hacking and CTFs](#just-a-little-chat-about-hacking-and-ctfs)
+   * [Simple Exploit Examples](#)
+   * [CTFS](#ctf)
+   * [CTF resourses](#ctf-resourses)
+   * [FAQs](#f.a.q-we-were-asked-about-hacking-and-ctfs)
+* [Contributing](#contributing)
 * [Contacts](#contacts)
 
 # Playing with Hardware / DIY electronics
@@ -129,7 +143,9 @@ In this project we made a working model of a smart home using the [raspberry pi]
 - This part was a just a general view of the cyber sec / hacking field most of the examples we showed were very basic exploits, for obvious reasons, the major take away though was to show computer programs in general can be exploited.
 - In a country with very harsh cyber crime laws it will be just stupid to remind people that hacking should done legally such as in [bug bounties](https://medium.com/ehsahil/getting-started-in-bug-bounty-7052da28445a) or for educational purposes.
 
-Below is a list of examples that we presented just to highlight examples of very basic exploitation
+## Simple Exploit Examples
+
+- Below is a list of examples that we presented just to highlight examples of very basic exploitation
 
 1. [Malduino, making a super cheap rubber ducky](src/malduino)
 2. [Simple Binary exploitation example](src/simple_binary_exploitation)
