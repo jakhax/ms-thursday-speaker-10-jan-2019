@@ -22,7 +22,7 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
 * [Just a little chat about hacking and CTFs](#just-a-little-chat-about-hacking-and-ctfs)
    * [Simple Exploit Examples](#)
    * [CTFs](#ctf)
-   * [CTF resourses](#ctf-resourses)
+   * [CTF resourses](#ctf-resources)
    * [FAQs Hacking & CTFs](#faqs-we-were-asked-about-hacking-and-ctfs)
 * [Contributing](#contributing)
 * [Contacts](#contacts)
