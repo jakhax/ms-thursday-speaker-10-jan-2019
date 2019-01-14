@@ -1,11 +1,11 @@
-# Having Fun With Computers 10th Jan 2019
------------------------------------------
+# Having Fun With Computers 
+---------------------------
 
 > **Truth is: anything you do, any tutorial you follow, any project you start and never finish, any dead end that you head down, it's not wasted. It's all experience that is accumulating over time.**
 
-This is repo contains references and notes about a presentation we ([reivhax](https://github.com/reivahax) & [jakhak](https://github.com/jakhax)) did at [Moringa School](https://moringaschool.com) which is basically some of the projects we have done to learn how computers work at the same time building something fun.
+This is repo contains references and notes about a presentation we ([reivhax](https://github.com/reivahax) & [jakhak](https://github.com/jakhax)) did at [Moringa School](https://moringaschool.com) on 10th Jan 2019, which is basically some of the projects we have done to learn how computers work at the same time building something fun.
 
-This is the link to the [Presentation Slides](https://docs.google.com/presentation/d/1ca6mX68-P9KtuZuqDCryVN3aiNYsFBOipO5SeM2in1M/edit?usp=sharing)
+This is the link to the [Presentation Slides](https://docs.google.com/presentation/d/1ca6mX68-P9KtuZuqDCryVN3aiNYsFBOipO5SeM2in1M/edit?usp=sharing).
 
 ## Table of contents
 * [Fun with DIY electronics and Hardware Programming](#fun-with-diy-electronics-and-hardware-programming)
