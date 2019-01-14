@@ -12,7 +12,7 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
     * [Visualizing Music on an LED strip using Esp8266](#visualizing-music-on-an-led-strip-using-esp8266)
     * [Making a simple smart home using Raspberry Pi](#making-a-simple-smart-home-using-raspberry-pi)
     * [Telegram bot to locate objects using Esp8266](#telegram-bot-to-locate-objects-using-esp8266)
-    * [F.A.Q about getting started with hardware programming/ DIY electronics](#f.a.q-about-getting-started-with-hardware-programming/-diy-electronics)
+    * [FAQs-getting started with DIY electronics and hardware programming](#faqs-getting-started-with-diy-electronics-and-hardware-programming)
     * []()
 * [Mentionable AI projects we have done](#mentionable-ai-projects-we-have-done)
    * [Shamba Doctor](#shamba-doctor)
@@ -66,7 +66,7 @@ In this project we made a working model of a smart home using the [raspberry pi]
 ## [Telegram bot to locate objects using Esp8266]()
 - `@todo`: publish project to github and document by @reivhax
 
-## F.A.Q about getting started with hardware programming/ DIY electronics
+## FAQs-getting started with DIY electronics and hardware programming
 - **How do i even get started with this stuff?**
     - We would recommend you to get a starters kit for either [arduino]() or [raspberry pi]() that includes everything you need, in DIY you really have to gets your hands dirty to understand how things work.
     - starters kits can start you on your way to working with everything from Arduino to robotics.
