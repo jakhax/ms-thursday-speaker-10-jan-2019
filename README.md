@@ -20,7 +20,7 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
    * [FAQs AI and Machine Learning](#faqs-we-got-asked-about-ai-and-machine-learning)
    
 * [Just a little chat about hacking and CTFs](#just-a-little-chat-about-hacking-and-ctfs)
-   * [Simple Exploit Examples](#)
+   * [Simple Exploit Examples](#simple-exploit-examples)
    * [CTFs](#ctf)
    * [CTF resourses](#ctf-resources)
    * [FAQs Hacking & CTFs](#faqs-we-were-asked-about-hacking-and-ctfs)
