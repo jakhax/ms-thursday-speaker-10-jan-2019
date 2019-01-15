@@ -16,7 +16,7 @@ This is the link to the [Presentation Slides](https://docs.google.com/presentati
 * [Mentionable AI projects we have done](#mentionable-ai-projects-we-have-done)
    * [Shamba Doctor](#shamba-doctor)
    * [sonic the self-driving car](#sonic-the-self-driving-car)
-   * [Telegram bot to find celeb look alikes](#'telegram-bot-to-find-celeb-look-alikes')
+   * [Telegram bot to find celeb look alikes](#telegram-bot-to-find-celeb-look-alikes)
    * [FAQs AI and Machine Learning](#faqs-we-got-asked-about-ai-and-machine-learning)
    
 * [Just a little chat about hacking and CTFs](#just-a-little-chat-about-hacking-and-ctfs)
@@ -188,7 +188,7 @@ CTFs are a great way of understanding not only computer security but also how co
         - [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) say no more.
         
 - **How can I hack Wifi?**
-   - First learn how wifi works and wirelsess networks in general, then read about security vulnearbilities in network security protocols like WPA, WPA2 and WEP. 
+   - First learn how wifi works and wireless networks in general, then read about security vulnearbilities in network security protocols like WPA, WPA2 and WEP. 
    - The advantage with this method of learning even though it takes time in the end you will learn a lot about how computers work and know how to exploit them, even coming up with your own exploits.
    - Please dont google `how to hack ....`, dont be a [script kiddie/ skiddie](https://en.wikipedia.org/wiki/Script_kiddie)
 
