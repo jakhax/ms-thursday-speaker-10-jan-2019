@@ -138,7 +138,7 @@ In this project we made a working model of a smart home using the [raspberry pi]
 
 - **Where did you learn how to make a self-driving car?**
     - In our case it was more about applying the knowlegde we had about DIY electronics to build the RC car, then reading [nvidia's research](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) on end to end deep learning.
-    - [udacity](https://www.udacity.com/) also has a course about self driving cars that most people recommend though i have checked it out, cause its fricking expensive, for me atleast.
+    - [udacity](https://www.udacity.com/) also has a course about self driving cars that most people recommend though i have not checked it out, cause its fricking expensive, for me atleast.
 
 # Just a little chat about hacking and CTFs
 - This part was a just a general view of the cyber sec / hacking field most of the examples we showed were very basic exploits, for obvious reasons, the major take away though was to show computer programs in general can be exploited.
